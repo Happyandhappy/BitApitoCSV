@@ -1,0 +1,15 @@
+{
+  "name": "apitocsv",
+  "version": "1.0.0",
+  "description": "Node App to store api data to csv files",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Travis Yates",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^2.0.1",
+    "request": "^2.83.0"
+  }
+}

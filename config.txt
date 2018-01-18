@@ -1,0 +1,8 @@
+FromSymbol;XVG
+ToSymbol;BTC
+limit;10000
+aggregate;3
+Nameofexchange;CCCAGG
+FolderName;"C:\Users\Happyandhappy\Desktop\nodeApi\csvOutput"
+Frequency;minute
+Mode;onceoff
